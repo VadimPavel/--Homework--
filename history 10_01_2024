@@ -3,7 +3,29 @@
    2 ls
    3 ls -l
    4 ls -al
-   5 tree /root/
+   5 tree /root/                                                        #!/bin/bash
+ 
+                                                                          set -e
+ 
+                                                                        echo "It works!"
+                                                                        cat /etc/os-release | head -1
+                                                                        cat /etc/os-release | head -1 | grep -o Alpine
+                                                                        cat /proc/cpuinfo > file.txt
+  
+                                                                             for i in {1..10}
+                                                                             do
+                                                                             echo $i "интервал"
+                                                                             date +"%H:%M:%S"
+                                                                             echo -n "Процессы: "
+                                                                             ps -ef | awk '{print$1}' | tail -1
+                                                                        #    sleep 5
+                                                                             done
+ 
+                                                                                   for u in {50..100} 
+                                                                                   do
+                                                                                   > /root/$u.txt
+                                                                                   done
+ 
    6 cat sleeper.sh 
    7 ls 
    8 ls -l
