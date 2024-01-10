@@ -1,0 +1,134 @@
+   0 nano sleeper.sh
+   1 chmod 744 sleeper.sh 
+   2 ls
+   3 ls -l
+   4 ls -al
+   5 tree /root/
+   6 cat sleeper.sh 
+   7 ls 
+   8 ls -l
+   9 nano sleeper.sh
+  10 ls -l
+  11 nano sleeper.sh
+  12 ls -l
+  13 ls /root
+  14 ls -al
+  15 nano sleeper.sh
+  16 ls -l
+  17 cat sleeper.sh 
+  18 ./sleeper.sh 
+  19 ls
+  20 nano sleeper.sh
+  21 ./sleeper.sh 
+  22 nano sleeper.sh
+  23 ./sleeper.sh 
+  24 nano sleeper.sh
+  25 ps ef 
+  26 ps -a
+  27 ps -aux
+  28 ps -axu
+  29 cat /proc/cpuinfo 
+  30 cat /proc/cpuinfo | ps -ef
+  31 nano sleeper.sh
+  32 y
+  33 ps -ef | awk '{print$1}'
+  34 ps -ef | awk '{print$1}' | tail -1
+  35 ps -ef
+  36 ps -ef | awk '{print$1}' | grep -w
+  37 ps -ef | awk '{print$1}' | grep -0
+  38 ps -ef | awk '{print$1}' | grep -o
+  39 ps -ef | awk '{print$1}' | grep -h
+  40 ps -ef | awk '{print$1}' | grep -H
+  41 ps -ef | awk '{print$1}' | grep [PID]
+  42 ps -ef | awk '{print$1}' | grep PID
+  43 ps -ef | awk '{print$1}' | grep №
+  44 nano sleeper.sh
+  45 ./sleeper.sh 
+  46 nano sleeper.sh
+  47 ./sleeper.sh 
+  48 nano sleeper.sh
+  49 ./sleeper.sh 
+  50 nano sleeper.sh
+  51 ./sleeper.sh 
+  52 nano sleeper.sh
+  53 ps -ef | awk '{print$1}'
+  54 ps -ef 
+  55 nano sleeper.sh
+  56 ./sleeper.sh 
+  57 nano sleeper.sh
+  58 ./sleeper.sh 
+  59 nano sleeper.sh
+  60 ./sleeper.sh 
+  61 nano sleeper.sh
+  62 ./sleeper.sh 
+  63 nano sleeper.sh
+  64 ./sleeper.sh 
+  65 nano sleeper.sh
+  66 ./sleeper.sh 
+  67 nano sleeper.sh
+  68 ./sleeper.sh 
+  69 nano sleeper.sh
+  70 ./sleeper.sh 
+  71 nano sleeper.sh
+  72 ./sleeper.sh 
+  73 nano sleeper.sh
+  74 ./sleeper.sh 
+  75 nano sleeper.sh
+  76 ./sleeper.sh 
+  77 nano sleeper.sh
+  78 ./sleeper.sh 
+  79 nano sleeper.sh
+  80 ./sleeper.sh 
+  81 nano sleeper.sh
+  82 ./sleeper.sh 
+  83 nano sleeper.sh
+  84 ./sleeper.sh 
+  85 nano sleeper.sh
+  86 ./sleeper.sh 
+  87 nano sleeper.sh
+  88 ./sleeper.sh 
+  89 nano sleeper.sh
+  90 ./sleeper.sh 
+  91 nano sleeper.sh
+  92 ./sleeper.sh 
+  93 nano sleeper.sh
+  94 ./sleeper.sh 
+  95 nano sleeper.sh
+  96 ./sleeper.sh 
+  97 nano sleeper.sh
+  98 ./sleeper.sh 
+  99 nano sleeper.sh
+ 100 ls
+ 101 tree /root
+ 102 nano sleeper.sh
+ 103 ls
+ 104 ls -l
+ 105 cat file.txt 
+ 106 ./sleeper.sh 
+ 107 nano sleeper.sh
+ 108 ./sleeper.sh 
+ 109 nano sleeper.sh
+ 110 ./sleeper.sh \
+ 111 nano sleeper.sh
+ 112 ./sleeper.sh 
+ 113 nano sleeper.sh
+ 114 ./sleeper.sh 
+ 115 nano sleeper.sh
+ 116 ./sleeper.sh 
+ 117 nano sleeper.sh
+ 118 ./sleeper.sh 
+ 119 nano sleeper.sh
+ 120 ./sleeper.sh 
+ 121 nano sleeper.sh
+ 122 ./sleeper.sh 
+ 123 nano sleeper.sh
+ 124 ./sleeper.sh 
+ 125 nano sleeper.sh
+ 126 ./sleeper.sh 
+ 127 history > history_10_01_2024.txt
+ 128 export_file history 10_01_2024.txt
+ 129 history
+ 130 history > history_10_01_2024.sh
+ 131 export_file history 10_01_2024.sh
+ 132 nano sleeper.sh
+ 133 history > history _10-01-2024.txt
